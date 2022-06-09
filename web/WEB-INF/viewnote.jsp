@@ -15,7 +15,6 @@
                 <p><b>Title:</b></p>
                 <p>${title}</p>
             </div>
-            <br>
             <div>
                 <p><b>Contents:</b></p>
                 <br>
